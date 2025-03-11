@@ -1,4 +1,4 @@
-# IoTBystander_public
+# IoTBystander
 This repository aims to make the code and data of the research paper "IoTBystander: A Non-Intrusive Dual-Channel Based Smart Home Security Monitoring Framework." public.
 
 ## Note: Currently, the code and data have not been fully organized. We are actively working on the following tasks:
